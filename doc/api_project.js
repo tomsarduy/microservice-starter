@@ -1,0 +1,1 @@
+define({  "name": "API docs",  "version": "0.1.0",  "description": "",  "title": "API documentation",  "url": "http://localhost:8080",  "sampleUrl": false,  "defaultVersion": "0.0.0",  "apidoc": "0.3.0",  "generator": {    "name": "apidoc",    "time": "2017-03-03T17:43:26.203Z",    "url": "http://apidocjs.com",    "version": "0.17.5"  }});

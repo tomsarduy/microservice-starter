@@ -1,0 +1,8 @@
+{
+  "generator-api": {
+    "promptValues": {
+      "authorName": "Tomas",
+      "authorEmail": "tomas@citizen.co"
+    }
+  }
+}

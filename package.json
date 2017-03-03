@@ -1,0 +1,33 @@
+{
+  "name": "product-builder-service",
+  "version": "0.1.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon index.js",
+    "start": "node index.js",
+    "test": "jest 'test.js' --watchAll",
+    "docs": "apidoc -i modules/"
+  },
+  "engines": {
+    "node": ">=6"
+  },
+  "author": "Tomas <tomas@citizen.co>",
+  "dependencies": {
+    "bluebird": "^3.4.6",
+    "body-parser": "^1.15.2",
+    "express": "^4.14.0",
+    "helmet": "^3.1.0",
+    "mongoose": "^4.7.0",
+    "morgan": "^1.7.0"
+  },
+  "devDependencies": {
+    "apidoc": "^0.17.5",
+    "eslint": "^3.11.1",
+    "eslint-config-airbnb": "^13.0.0",
+    "eslint-plugin-import": "^2.2.0",
+    "eslint-plugin-jsx-a11y": "^2.2.3",
+    "eslint-plugin-react": "^6.7.1",
+    "nodemon": "^1.11.0",
+  }
+}
