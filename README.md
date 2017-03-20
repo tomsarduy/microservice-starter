@@ -1,5 +1,5 @@
 
-###Running the project
+### Running the project
 
 Make sure you have node version >= 6 because this project uses native supported ES6 features. No need to use babel or compile anything.
 
@@ -11,7 +11,7 @@ npm run dev
 ```
 the app runs on `localhost:8080`
 
-###Testing
+### Testing
 
 The project uses [Jest](https://facebook.github.io/jest/) as the test runner. The "easier" part boiled down to three primary features:
 
@@ -26,7 +26,7 @@ The project uses [Jest](https://facebook.github.io/jest/) as the test runner. Th
 ```bash
 npm run test
 ```
-###API Docs
+### API Docs
 [apiDoc](http://apidocjs.com/) creates a documentation from API annotations in your source code.
 
 	/**
@@ -45,7 +45,7 @@ npm run test
 ```bash
 npm run docs
 ```
-###Development Notes:
+### Development Notes:
 
 **Controller:**
 
